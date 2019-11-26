@@ -44,6 +44,9 @@ Free software for students: [link](https://www.autodesk.com/education/free-softw
 ### Visual Studio Enterprice 2019
 
 #### Useful Plugin
-[GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) allow connection to Github.
-[Resharper](https://www.jetbrains.com/resharper/) helps to improve your code quality with a set of automatic checks. It also provide some power user tools to help you navigate / recfactor code. It is free as part of Github education pack.
+* [GitHub Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio) allow connection to Github.
+* [Resharper](https://www.jetbrains.com/resharper/) helps to improve your code quality with a set of automatic checks. It also provide some power user tools to help you navigate / recfactor code. It is free as part of Github education pack.
+* [Visual Micro](https://www.visualmicro.com/) Plugin for Arduino development using Visual Studio.
+* [Microsoft Child Process Debugging Power Tool](https://marketplace.visualstudio.com/items?itemName=vsdbgplat.MicrosoftChildProcessDebuggingPowerTool) Useful when your program launches other program, eg MTRN3500 assignments. This plugin let you set breakpoint in the child process.
+* **PAYED** [Entrian attach](http://entrian.com/attach/) Attach the debugger automatically to processes the moment they start,
 
