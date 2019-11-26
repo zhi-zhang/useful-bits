@@ -25,11 +25,19 @@ Some useful toolboxes. Some contain hidden useful functions .
 * [Deep Learning Toolbox](https://au.mathworks.com/products/deep-learning.html)
 * [Computer Vision Toolbox](https://au.mathworks.com/products/computer-vision.html) replace Peter Corke's Machine Vision Toolbox
 * [Image Processing Toolbox](https://au.mathworks.com/products/image.html)
-* [Image Acquisition Toolbox](https://au.mathworks.com/products/image-acquisition.html) [Generic webcam addon](https://au.mathworks.com/hardware-support/video-capture-device.html)
+* [Image Acquisition Toolbox](https://au.mathworks.com/products/image-acquisition.html), [Generic webcam addon](https://au.mathworks.com/hardware-support/video-capture-device.html)
 * [Aerospace Toolbox](https://au.mathworks.com/products/aerospace-toolbox.html) Contains other useful functions for GPS coordinate conversion.
 * [Robotics System Toolbox](https://au.mathworks.com/products/robotics.html) Robot modelling, replace Peter Corke's Robotic Toolbox.
 * [ROS Toolbox](https://au.mathworks.com/products/ros.html)
 * [Instrument Control Toolbox](https://au.mathworks.com/products/instrument.html) TCPIP networking, pay attention to the timer part, its really useful for getting TCPIP to work correctly.
+
+
+### Autodesk
+Free software for students: [link](https://www.autodesk.com/education/free-software/featured)
+
+* Inventor (CAD)
+* AutoCAD
+* MAYA
 
 ## Programming
 
