@@ -94,7 +94,13 @@ Change the base of the branch to make it appear as if it was created base on ano
  Let the user edit that list before rebasing. 
  Useful for compact and clean up git history.
  
- 
+ * [`git stash`](https://git-scm.com/docs/git-stash)
+ store the current changes and restore the working directory to previous commit state.
+  * `apply` : apply a single stashed state from the stash list on top of the current working tree state.
+  * `drop` : Remove a single stash entry from the list of stash entries. 
+  * `pop` : `apply` + `drop`, note apply can fail.
+  * `clear` : Remove all the stash entries.
+
 * Add an upstream repository: `git remote add {local_nickname} {repository_url}`
 * Push to a specific upstream repository: git push {local_nickname} {branch}
 
